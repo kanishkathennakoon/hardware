@@ -1,0 +1,95 @@
+const products = [
+  {
+    _id: '1',
+    name: 'BRILLIANT WHITE 20L LUXURY SHIELD 9102A',
+    image: '/images/BRILLIANT WHITE.jpg',
+    description:
+      'Thinning with clean water should not exceed 30% by using fresh water. Apply over primed surfaces. For the decoration and protection of interior building surface.',
+    brand: 'Causeway Paints',
+    category: 'Paints',
+    price: 79100.00,
+    countInStock: 10,
+    rating: 4.5,
+    numReviews: 12,
+  },
+  {
+    _id: '2',
+    name: '7/0.67MM (7/.029) EARTH KELANI (50M)',
+    image: '/images/EARTH KELANI.jpg',
+    description:
+      ' ',
+    brand: 'Kelani',
+    category: 'Lighting & Electricals',
+    price: 599.99,
+    countInStock: 7,
+    rating: 4.0,
+    numReviews: 8,
+  },
+  {
+    _id: '3',
+    name: 'GENERATOR FPG3800EI GIANT',
+    image: '/images/GENERATOR.jpg',
+    description:
+      ' ',
+    brand: 'Giant',
+    category: 'Tools',
+    price: 929.99,
+    countInStock: 5,
+    rating: 3,
+    numReviews: 12,
+  },
+  {
+    _id: '4',
+    name: '3" X 3" X 3MM GI BOX BAR MELWA',
+    image: '/images/GI BOX BAR.jpg',
+    description:
+      ' ',
+    brand: 'Melwa',
+    category: 'Building & Hardware',
+    price: 399.99,
+    countInStock: 11,
+    rating: 5,
+    numReviews: 12,
+  },
+  {
+    _id: '5',
+    name: '11/2" X 11/2" W/PUMP 1.5HP SX1533/1.5 SOLEX',
+    image: '/images/SOLEX.jpg',
+    description:
+      ' ',
+    brand: 'Solex',
+    category: 'Bathroom & Plumbing',
+    price: 49.99,
+    countInStock: 7,
+    rating: 3.5,
+    numReviews: 10,
+  },
+  {
+    _id: '6',
+    name: '25MM TOR BAR MELWA STEEL CABLES',
+    image: '/images/TOR BAR MELWA.jpg',
+    description:
+      ' ',
+    brand: 'Melwa',
+    category: 'Metal',
+    price: 29.99,
+    countInStock: 0,
+    rating: 4,
+    numReviews: 12,
+  },
+  {
+    _id: '7',
+    name: 'RCD (TRIP SWITCH) SIGMA 2 POLE 40A 30MA 4001',
+    image: '/images/TRIP SWITCH.jpg',
+    description:
+      ' ',
+    brand: 'Orange',
+    category: 'Lighting & Electricals',
+    price: 29.99,
+    countInStock: 0,
+    rating: 4,
+    numReviews: 12,
+  },
+]
+
+export default products
